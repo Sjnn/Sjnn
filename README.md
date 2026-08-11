@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sjnn">
+  <a href="https://github.com/Sjnn">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/search/results/people/?keywords=Seraj%20Nawaiseh">
@@ -24,15 +24,15 @@
   <a href="mailto:seraj.nawaiseh@gmail.com">
     <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/sjnn">
+  <a href="https://github.com/Sjnn">
     <img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sjnn&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/sjnn?style=flat-square&color=4F46E5&label=FOLLOWERS" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/sjnn?style=flat-square&color=6D28D9&label=STARS" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=Sjnn&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Sjnn?style=flat-square&color=4F46E5&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Sjnn?style=flat-square&color=6D28D9&label=STARS" alt="Stars"/>
 </p>
 
 ---
@@ -116,7 +116,7 @@ The project organizes individual concepts into dedicated pages, making it easier
 | **Performance** | Lightweight static architecture |
 | **Security** | No unnecessary external dependencies |
 | **Impact** | Structured practical reference for HTML learning |
-| **Repository** | [GitHub Profile](https://github.com/sjnn) |
+| **Repository** | [GitHub Profile](https://github.com/Sjnn) |
 
 ### Engineering Scope
 - Structured multi-page HTML architecture
@@ -142,7 +142,7 @@ A practical development environment for strengthening web engineering fundamenta
 | **Performance** | Lightweight client-side implementation |
 | **Security** | Minimal dependency surface |
 | **Impact** | Practical foundation for full-stack development |
-| **Repository** | [GitHub Profile](https://github.com/sjnn) |
+| **Repository** | [GitHub Profile](https://github.com/Sjnn) |
 
 ### Engineering Scope
 - Frontend fundamentals
@@ -239,11 +239,11 @@ Developing practical software projects while studying Software Engineering at th
 # GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sjnn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C4B5FD&ring_color=7C3AED&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sjnn&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" height="180" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sjnn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C4B5FD&ring_color=7C3AED&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sjnn&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" height="180" alt="GitHub Streak"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjnn&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C4B5FD&langs_count=8" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sjnn&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C4B5FD&langs_count=8" height="180" alt="Top Languages"/>
 </p>
 
 ---
@@ -251,7 +251,7 @@ Developing practical software projects while studying Software Engineering at th
 # GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sjnn&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sjnn&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -259,7 +259,7 @@ Developing practical software projects while studying Software Engineering at th
 # Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sjnn&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=8B5CF6&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sjnn&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=8B5CF6&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity"/>
 </p>
 
 ---
@@ -267,7 +267,7 @@ Developing practical software projects while studying Software Engineering at th
 # Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sjnn/sjnn/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/Sjnn/Sjnn/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
 
 ---

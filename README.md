@@ -30,9 +30,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sjnn&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Sjnn?style=flat-square&color=4F46E5&label=FOLLOWERS" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/Sjnn?style=flat-square&color=6D28D9&label=STARS" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=Sjnn&style=flat-square&color=7C3AED&label=PROFILE+VIEWS&v=1" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Sjnn?style=flat-square&color=4F46E5&label=FOLLOWERS&v=1" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Sjnn?style=flat-square&color=6D28D9&label=STARS&v=1" alt="Stars"/>
 </p>
 
 ---
@@ -239,11 +239,11 @@ Developing practical software projects while studying Software Engineering at th
 # GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sjnn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C4B5FD&ring_color=7C3AED&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sjnn&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" height="180" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sjnn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C4B5FD&ring_color=7C3AED&include_all_commits=true&v=1" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sjnn&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&v=1" height="180" alt="GitHub Streak"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sjnn&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C4B5FD&langs_count=8" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sjnn&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C4B5FD&langs_count=8&v=1" height="180" alt="Top Languages"/>
 </p>
 
 ---
@@ -251,7 +251,7 @@ Developing practical software projects while studying Software Engineering at th
 # GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sjnn&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sjnn&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7&v=1" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -259,7 +259,7 @@ Developing practical software projects while studying Software Engineering at th
 # Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sjnn&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=8B5CF6&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sjnn&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=8B5CF6&area=true&hide_border=true&custom_title=Contribution%20Activity&v=1" width="100%" alt="Contribution Activity"/>
 </p>
 
 ---

@@ -243,7 +243,7 @@ Developing practical software projects while studying Software Engineering at th
   <!-- 
   <img src="https://github-readme-stats.vercel.app/api?username=Sjnn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C4B5FD&ring_color=7C3AED&include_all_commits=true" height="180" alt="GitHub Stats"/>
   -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sjnn&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" height="180" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Sjnn&background=000000&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&border=312E81&v=3" height="180" alt="GitHub Streak"/>
 </p>
 <p align="center">
   <!--

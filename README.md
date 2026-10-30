@@ -263,12 +263,12 @@ Developing practical software projects while studying Software Engineering at th
 
 ---
 
-# Contribution Activity
+<!--# Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sjnn&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=8B5CF6&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity"/>
 </p>
-
+-->
 ---
 
 # Contribution Snake
